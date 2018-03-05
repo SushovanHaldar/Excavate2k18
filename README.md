@@ -1,2 +1,1 @@
-# excavate - DA Competition
-of the Department fest of Metallurgy - Composit
+Data analytics competition of the dept of Metallurgy IIT Kharagpur
